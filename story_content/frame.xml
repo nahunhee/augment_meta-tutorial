@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<bwFrame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" default_layout="npnxnanbnsnfns00000000101" textdirection="ltr" textengine="DirectWrite" device="false" fontscale="100" captionFontScale="100" kbshortcuts="false" skip_nav_enabled="true" chromeless="false" outputtype="undefined" theme="classic">
+<bwFrame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" default_layout="pxabnsnfns00001100101" textdirection="ltr" textengine="DirectWrite" device="false" fontscale="100" captionFontScale="100" kbshortcuts="false" skip_nav_enabled="true" chromeless="false" outputtype="undefined" theme="classic">
   <layouts>
-    <layout name="npnxnanbsnfns00001100101" font="Open Sans" controllayout="npnxnanbsnfns00001100101" colorscheme="npnxnanbnsnfns00000000101" string_table="npnxnanbnsnfns00000000101" />
-    <layout name="pxabnsnfns00001100101" font="Open Sans" controllayout="pxabnsnfns00001100101" colorscheme="npnxnanbnsnfns00000000101" string_table="npnxnanbnsnfns00000000101" />
-    <layout name="npxnabnsnfns00001100101" font="Open Sans" controllayout="npxnabnsnfns00001100101" colorscheme="npnxnanbnsnfns00000000101" string_table="npnxnanbnsnfns00000000101" />
-    <layout name="npnxnanbnsnfns00001100101" font="Open Sans" controllayout="npnxnanbnsnfns00001100101" colorscheme="npnxnanbnsnfns00000000101" string_table="npnxnanbnsnfns00000000101" />
-    <layout name="pxabnsnfns00001100100" font="Open Sans" controllayout="pxabnsnfns00001100100" colorscheme="npnxnanbnsnfns00000000101" string_table="npnxnanbnsnfns00000000101" />
-    <layout name="npnxnanbnsnfns00000000101" font="Open Sans" controllayout="npnxnanbnsnfns00000000101" colorscheme="npnxnanbnsnfns00000000101" string_table="npnxnanbnsnfns00000000101" />
-    <layout name="pxabnsnfns00000000101" font="Open Sans" controllayout="pxabnsnfns00000000101" colorscheme="npnxnanbnsnfns00000000101" string_table="npnxnanbnsnfns00000000101" />
+    <layout name="npnxnanbsnfns00001100101" font="Open Sans" controllayout="npnxnanbsnfns00001100101" colorscheme="pxabnsnfns00001100101" string_table="pxabnsnfns00001100101" />
+    <layout name="pxabnsnfns00001100101" font="Open Sans" controllayout="pxabnsnfns00001100101" colorscheme="pxabnsnfns00001100101" string_table="pxabnsnfns00001100101" />
+    <layout name="npxnabnsnfns00001100101" font="Open Sans" controllayout="npxnabnsnfns00001100101" colorscheme="pxabnsnfns00001100101" string_table="pxabnsnfns00001100101" />
+    <layout name="npnxnanbnsnfns00001100101" font="Open Sans" controllayout="npnxnanbnsnfns00001100101" colorscheme="pxabnsnfns00001100101" string_table="pxabnsnfns00001100101" />
+    <layout name="pxabnsnfns00001100100" font="Open Sans" controllayout="pxabnsnfns00001100100" colorscheme="pxabnsnfns00001100101" string_table="pxabnsnfns00001100101" />
+    <layout name="npnxnanbnsnfns00000000101" font="Open Sans" controllayout="npnxnanbnsnfns00000000101" colorscheme="pxabnsnfns00001100101" string_table="pxabnsnfns00001100101" />
+    <layout name="pxabnsnfns00000000101" font="Open Sans" controllayout="pxabnsnfns00000000101" colorscheme="pxabnsnfns00001100101" string_table="pxabnsnfns00001100101" />
   </layouts>
   <control_options>
     <optiongroups>
@@ -15,7 +15,7 @@
         <options>
           <option name="title_enabled" value="true">
             <options>
-              <option name="title_text" value="meta_tutorial_v1" />
+              <option name="title_text" value="google_tutorial" />
             </options>
           </option>
           <option name="logo_enabled" value="false">
@@ -249,7 +249,7 @@
     </control_layout>
   </control_layouts>
   <colorschemes>
-    <colorscheme name="npnxnanbnsnfns00000000101">
+    <colorscheme name="pxabnsnfns00001100101">
       <color_group name="accessibility">
         <group_colors>
           <color name="focus_rect">
@@ -1166,7 +1166,7 @@
     </colorscheme>
   </colorschemes>
   <string_tables>
-    <string_table name="npnxnanbnsnfns00000000101">
+    <string_table name="pxabnsnfns00001100101">
       <string id="three_image_items">items</string>
       <string id="three_image_viewed">viewed</string>
       <string id="three_image_of">of</string>
@@ -1272,48 +1272,85 @@
       <links>
         <slidelink slideid="_player.6GLbbtihEAR" displaytext="meta_tutorial" expand="true" type="slide">
           <links>
-            <slidelink slideid="_player.6GLbbtihEAR.6VeSDpErxuO" displaytext="How to click buttons" expand="false" type="slide" />
-            <slidelink slideid="_player.6GLbbtihEAR.5nE1V92SzQG" displaytext="Well done!" expand="false" type="slide" />
-            <slidelink slideid="_player.6GLbbtihEAR.5WjjXiEmUVG" displaytext="How to navigate the tutorial" expand="false" type="slide" />
-            <slidelink slideid="_player.6GLbbtihEAR.5gD1lnHMZHl" displaytext="Well done!" expand="false" type="slide" />
-            <slidelink slideid="_player.6GLbbtihEAR.6I5UjJBlXaa" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.6GLbbtihEAR.5w33cpsM2Ws" displaytext="step B" expand="false" type="slide" />
-            <slidelink slideid="_player.6GLbbtihEAR.5dQo4flsppQ" displaytext="step C" expand="false" type="slide" />
-            <slidelink slideid="_player.6GLbbtihEAR.5hmlz4zZCOs" displaytext="step B" expand="false" type="slide" />
-            <slidelink slideid="_player.6GLbbtihEAR.5qW5UVUaTxN" displaytext="Good job!" expand="false" type="slide" />
-            <slidelink slideid="_player.6GLbbtihEAR.5xCOXjAxPQe" displaytext="You can answer quizzes in this tutorial." expand="false" type="slide" />
-            <slidelink slideid="_player.6GLbbtihEAR.6AQ1GRyQHWK" displaytext=" " expand="false" type="slide" />
-            <slidelink slideid="_player.6GLbbtihEAR.5VYGyJu2Wri" displaytext=" " expand="false" type="slide" />
-            <slidelink slideid="_player.6GLbbtihEAR.6YiwtjTcbrP" displaytext="Today, I am learning how to use this tutorial" expand="false" type="slide" />
-            <slidelink slideid="_player.6GLbbtihEAR.6GL5SBE3SYa" displaytext="Orange-colored buttons can be clicked on." expand="false" type="slide" />
-            <slidelink slideid="_player.6GLbbtihEAR.6WF0Wmflpeg" displaytext="You can click symbols." expand="false" type="slide" />
-            <slidelink slideid="_player.6GLbbtihEAR.6Q1uHDpc0C0" displaytext="You can click words and phrases on images." expand="false" type="slide" />
-            <slidelink slideid="_player.6GLbbtihEAR.6XMcR0A3POC" displaytext="Please answer the question." expand="false" type="slide" />
-            <slidelink slideid="_player.6GLbbtihEAR.5XAy55YU7sc" displaytext="How to control videos" expand="false" type="slide" />
-            <slidelink slideid="_player.6GLbbtihEAR.5xw7b1hzAPk" displaytext="Well done!" expand="false" type="slide" />
+            <slidelink slideid="_player.6GLbbtihEAR.6VeSDpErxuO" displaytext="M_Intro_1" expand="false" type="slide" />
+            <slidelink slideid="_player.6GLbbtihEAR.5nE1V92SzQG" displaytext="M_Intro_2" expand="false" type="slide" />
+            <slidelink slideid="_player.6GLbbtihEAR.6IOlS5TlRqi" displaytext="M_Navigate_0" expand="false" type="slide" />
+            <slidelink slideid="_player.6GLbbtihEAR.5WjjXiEmUVG" displaytext="M_Navigate_1" expand="false" type="slide" />
+            <slidelink slideid="_player.6GLbbtihEAR.5gD1lnHMZHl" displaytext="M_Navigate_2" expand="false" type="slide" />
+            <slidelink slideid="_player.6GLbbtihEAR.6I5UjJBlXaa" displaytext="M_Navigate_3" expand="false" type="slide" />
+            <slidelink slideid="_player.6GLbbtihEAR.5w33cpsM2Ws" displaytext="M_Navigate_4" expand="false" type="slide" />
+            <slidelink slideid="_player.6GLbbtihEAR.5dQo4flsppQ" displaytext="M_Navigate_5" expand="false" type="slide" />
+            <slidelink slideid="_player.6GLbbtihEAR.5hmlz4zZCOs" displaytext="M_Navigate_6" expand="false" type="slide" />
+            <slidelink slideid="_player.6GLbbtihEAR.5qW5UVUaTxN" displaytext="M_Navigate_7" expand="false" type="slide" />
+            <slidelink slideid="_player.6GLbbtihEAR.6EpO8OOlO5e" displaytext="M_Quizzes_0" expand="false" type="slide" />
+            <slidelink slideid="_player.6GLbbtihEAR.5xCOXjAxPQe" displaytext="M_Quizzes_1" expand="false" type="slide" />
+            <slidelink slideid="_player.6GLbbtihEAR.5VYGyJu2Wri" displaytext="M_Quizzes_2" expand="false" type="slide" />
+            <slidelink slideid="_player.6GLbbtihEAR.6YiwtjTcbrP" displaytext="M_Quizzes_3" expand="false" type="slide" />
+            <slidelink slideid="_player.6GLbbtihEAR.6WF0Wmflpeg" displaytext="M_Quizzes_5" expand="false" type="slide" />
+            <slidelink slideid="_player.6GLbbtihEAR.6Q1uHDpc0C0" displaytext="M_Quizzes_6" expand="false" type="slide" />
+            <slidelink slideid="_player.6GLbbtihEAR.6XMcR0A3POC" displaytext="M_Quizzes_7" expand="false" type="slide" />
+            <slidelink slideid="_player.6GLbbtihEAR.689ke5W8GSa" displaytext="M_Quizzes_8" expand="false" type="slide" />
+            <slidelink slideid="_player.6GLbbtihEAR.6hF8lAXU6DS" displaytext="M_Video_0" expand="false" type="slide" />
+            <slidelink slideid="_player.6GLbbtihEAR.6cGaBATvj7F" displaytext="M_Video_1" expand="false" type="slide" />
+            <slidelink slideid="_player.6GLbbtihEAR.5eH1hQxERoF" displaytext="M_Modules_0" expand="false" type="slide" />
+            <slidelink slideid="_player.6GLbbtihEAR.6Z1WIpiYRgS" displaytext="M_Modules_1" expand="false" type="slide" />
+            <slidelink slideid="_player.6GLbbtihEAR.5lqCi4P5HpT" displaytext="M_Modules_2" expand="false" type="slide" />
+            <slidelink slideid="_player.6GLbbtihEAR.6ouv0eDAGzq" displaytext="M_Final_1" expand="false" type="slide" />
+            <slidelink slideid="_player.6GLbbtihEAR.5xw7b1hzAPk" displaytext="M_Final_1" expand="false" type="slide" />
+            <slidelink slideid="_player.6GLbbtihEAR.5e7iMRtnyvz" displaytext="M_Quizzes_4" expand="false" type="slide" />
           </links>
         </slidelink>
         <slidelink slideid="_player.6Mme5ven71c" displaytext="google" expand="true" type="slide">
           <links>
-            <slidelink slideid="_player.6Mme5ven71c.6C04QKsOEPH" displaytext="You will learn Google Maps" expand="false" type="slide" />
-            <slidelink slideid="_player.6Mme5ven71c.69R6S6Hki57" displaytext=" " expand="false" type="slide" />
-            <slidelink slideid="_player.6Mme5ven71c.6fIhq3QTlOb" displaytext="Launch your Google Maps" expand="false" type="slide" />
-            <slidelink slideid="_player.6Mme5ven71c.5czqX7MT8h7" displaytext=" " expand="false" type="slide" />
-            <slidelink slideid="_player.6Mme5ven71c.5a5LOHMn7KC" displaytext="Launch your Google Maps app" expand="false" type="slide" />
-            <slidelink slideid="_player.6Mme5ven71c.659rm7FE2kc" displaytext=" " expand="false" type="slide" />
-            <slidelink slideid="_player.6Mme5ven71c.5m4EE0xW7OC" displaytext="Three steps to navigate routes " expand="false" type="slide" />
-            <slidelink slideid="_player.6Mme5ven71c.5bHAubKEBMq" displaytext="Remember S-C-N" expand="false" type="slide" />
-            <slidelink slideid="_player.6Mme5ven71c.6etXf93bUbo" displaytext="Search" expand="false" type="slide" />
-            <slidelink slideid="_player.6Mme5ven71c.69lqKG4udtE" displaytext="Search" expand="false" type="slide" />
-            <slidelink slideid="_player.6Mme5ven71c.5vu75VY43Iv" displaytext="Check" expand="false" type="slide" />
-            <slidelink slideid="_player.6Mme5ven71c.5nKoCWv5JjE" displaytext=" " expand="false" type="slide" />
-            <slidelink slideid="_player.6Mme5ven71c.6jI5fu3moaa" displaytext=" " expand="false" type="slide" />
-            <slidelink slideid="_player.6Mme5ven71c.67D0Uo8ZIZ9" displaytext="Today, I am learning how to use this tutorial" expand="false" type="slide" />
-            <slidelink slideid="_player.6Mme5ven71c.5rzSYcn3ydf" displaytext="Orange-colored button indicate that I can click it." expand="false" type="slide" />
-            <slidelink slideid="_player.6Mme5ven71c.5w42G8iTIS7" displaytext="You can click symbols as well." expand="false" type="slide" />
-            <slidelink slideid="_player.6Mme5ven71c.5pEKTjpLLOt" displaytext="You can click texts as well." expand="false" type="slide" />
-            <slidelink slideid="_player.6Mme5ven71c.6X3TfMYad4g" displaytext="Please answer the question." expand="false" type="slide" />
-            <slidelink slideid="_player.6Mme5ven71c.5k4urY5xGxm" displaytext="Well done!" expand="false" type="slide" />
+            <slidelink slideid="_player.6Mme5ven71c.6C04QKsOEPH" displaytext="G_Intro_0" expand="false" type="slide" />
+            <slidelink slideid="_player.6Mme5ven71c.6l4uVp7yWfg" displaytext="G_Final_0" expand="false" type="slide" />
+            <slidelink slideid="_player.6Mme5ven71c.6PQ3ElESru0" displaytext="G_Launch_0" expand="false" type="slide" />
+            <slidelink slideid="_player.6Mme5ven71c.5skj2FOOuzl" displaytext="G_Launch_1" expand="false" type="slide" />
+            <slidelink slideid="_player.6Mme5ven71c.66NwefTVawx" displaytext="G_Launch_2" expand="false" type="slide" />
+            <slidelink slideid="_player.6Mme5ven71c.602cUq0xqw9" displaytext="G_Launch_3" expand="false" type="slide" />
+            <slidelink slideid="_player.6Mme5ven71c.6oV67f0YuDc" displaytext="G_CheckLocation_0" expand="false" type="slide" />
+            <slidelink slideid="_player.6Mme5ven71c.5v0FB1oGqSw" displaytext="G_CheckLocation_1" expand="false" type="slide" />
+            <slidelink slideid="_player.6Mme5ven71c.5yLa6wJJDZh" displaytext="G_CheckLocation_2" expand="false" type="slide" />
+            <slidelink slideid="_player.6Mme5ven71c.6bs16gMcg9g" displaytext="G_CheckLocation_3" expand="false" type="slide" />
+            <slidelink slideid="_player.6Mme5ven71c.5q9vCy5KpIj" displaytext="G_CheckLocation_4" expand="false" type="slide" />
+            <slidelink slideid="_player.6Mme5ven71c.6nhUCWGVtSU" displaytext="G_Search_0" expand="false" type="slide" />
+            <slidelink slideid="_player.6Mme5ven71c.5iSLlI6IIZ6" displaytext="G_Search_1" expand="false" type="slide" />
+            <slidelink slideid="_player.6Mme5ven71c.683F8wmt5pL" displaytext="G_Search_2" expand="false" type="slide" />
+            <slidelink slideid="_player.6Mme5ven71c.5WMP0rgZTCs" displaytext="G_Search_3" expand="false" type="slide" />
+            <slidelink slideid="_player.6Mme5ven71c.6cvbcjwo35w" displaytext="G_Search_4" expand="false" type="slide" />
+            <slidelink slideid="_player.6Mme5ven71c.6Jh1ZKJJZxT" displaytext="G_Search_5" expand="false" type="slide" />
+            <slidelink slideid="_player.6Mme5ven71c.6PMJtZstCx6" displaytext="G_Generate_8" expand="false" type="slide" />
+            <slidelink slideid="_player.6Mme5ven71c.6ff2ee9qQT4" displaytext="G_Generate_11" expand="false" type="slide" />
+            <slidelink slideid="_player.6Mme5ven71c.5ZoRbuLb1GI" displaytext="G_Generate_12" expand="false" type="slide" />
+            <slidelink slideid="_player.6Mme5ven71c.60F4IuUO8EK" displaytext="G_Following_0" expand="false" type="slide" />
+            <slidelink slideid="_player.6Mme5ven71c.6jmBIZDx2Ld" displaytext="G_Following_1" expand="false" type="slide" />
+            <slidelink slideid="_player.6Mme5ven71c.6XTSVVCWBpJ" displaytext="G_Following_2" expand="false" type="slide" />
+            <slidelink slideid="_player.6Mme5ven71c.5yaQax8ajkn" displaytext="G_Following_3" expand="false" type="slide" />
+            <slidelink slideid="_player.6Mme5ven71c.6CdvNvbxqVr" displaytext="G_Following_4" expand="false" type="slide" />
+            <slidelink slideid="_player.6Mme5ven71c.62pDtvc0zxR" displaytext="G_Following_5" expand="false" type="slide" />
+            <slidelink slideid="_player.6Mme5ven71c.6IueIUyEuzK" displaytext="G_Generate_9" expand="false" type="slide" />
+            <slidelink slideid="_player.6Mme5ven71c.6EavUEov0tJ" displaytext="G_Generate_10" expand="false" type="slide" />
+            <slidelink slideid="_player.6Mme5ven71c.69QQCxcM39Y" displaytext="G_Search_8" expand="false" type="slide" />
+            <slidelink slideid="_player.6Mme5ven71c.6A4RHapwlwc" displaytext="G_Search_6" expand="false" type="slide" />
+            <slidelink slideid="_player.6Mme5ven71c.6F1RqNDHMfi" displaytext="G_Search_9" expand="false" type="slide" />
+            <slidelink slideid="_player.6Mme5ven71c.6RU6u9loZ3e" displaytext="G_Search_10" expand="false" type="slide" />
+            <slidelink slideid="_player.6Mme5ven71c.6m2aOAaRhq6" displaytext="G_Search_11" expand="false" type="slide" />
+            <slidelink slideid="_player.6Mme5ven71c.5fIziGohyH7" displaytext="G_Generate_0" expand="false" type="slide" />
+            <slidelink slideid="_player.6Mme5ven71c.6UkGM7wuWiR" displaytext="G_Generate_1" expand="false" type="slide" />
+            <slidelink slideid="_player.6Mme5ven71c.5dIkMKfekrs" displaytext="G_Generate_2" expand="false" type="slide" />
+            <slidelink slideid="_player.6Mme5ven71c.5o3LUNF83lU" displaytext="G_Generate_3" expand="false" type="slide" />
+            <slidelink slideid="_player.6Mme5ven71c.5ctH1GjKZqm" displaytext="G_Generate_4" expand="false" type="slide" />
+            <slidelink slideid="_player.6Mme5ven71c.6CJNFYkM6FK" displaytext="G_Generate_5" expand="false" type="slide" />
+            <slidelink slideid="_player.6Mme5ven71c.60KCHtyim13" displaytext="G_Generate_6" expand="false" type="slide" />
+            <slidelink slideid="_player.6Mme5ven71c.5xxk16AxK6D" displaytext="G_Generate_7" expand="false" type="slide" />
+            <slidelink slideid="_player.6Mme5ven71c.6CPweZEFCcr" displaytext="G_Search_7" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.6kseTqGPqat" displaytext="Keyboard" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.6kseTqGPqat.5wJsRomUM8u" displaytext="cvs" expand="false" type="slide" />
+            <slidelink slideid="_player.6kseTqGPqat.63oIRiSWzrW" displaytext="publix" expand="false" type="slide" />
+            <slidelink slideid="_player.6kseTqGPqat.6A9lB5RTsGR" displaytext="Keyboard Input Practice" expand="false" type="slide" />
           </links>
         </slidelink>
       </links>
